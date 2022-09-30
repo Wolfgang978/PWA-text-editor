@@ -4,4 +4,4 @@ Your task is to build a text editor that runs in the browser. The app will be a 
 
 ![A screenshot showing my working webpage](./client/src/images/ScreenshotofWebsite.png)
 
-[Link to Website](https://wolfgang978.github.io/PWA-text-editor "Link to PWA text editor site")
+[Link to Website](https://arcane-shelf-95218.herokuapp.com/ "Link to PWA text editor site")
